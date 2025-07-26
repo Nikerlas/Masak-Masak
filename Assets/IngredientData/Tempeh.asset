@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52dcb121bc3b29740a4302f49977e703, type: 3}
+  m_Name: Tempeh
+  m_EditorClassIdentifier: 
+  ingredientName: Tempeh
+  cookingTime: 5
+  graceTime: 2
+  cookedPrefab: {fileID: 4504377353892911808, guid: 5c676cb351466ac498beb3a3e2fccce8, type: 3}
+  burntPrefab: {fileID: 8662356598202883245, guid: 1cc2cb68a29fe0746b8fea0ed9a9af27, type: 3}
